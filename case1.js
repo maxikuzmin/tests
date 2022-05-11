@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         script doing nothing
-// @version      0.5
+// @version      0.6
 // @description  what a shame
 // @match        *://*/*
 // @grant        unsafeWindow
