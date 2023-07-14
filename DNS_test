@@ -6,4 +6,4 @@
 ! Description: Test DNS filter
 
 ||example.org^
-0.0.0.0 yandex.ru
+0.0.0.0 mail.ru
