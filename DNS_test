@@ -1,0 +1,9 @@
+!
+! Title: Test DNS filter
+! Homepage: https://github.com/Maxikuzmin/test/DNS_test.txt
+! License: free
+! Last modified: 2023-06-11 16:51:39
+! Description: Test DNS filter
+
+||example.org^
+0.0.0.0 yandex.ru
