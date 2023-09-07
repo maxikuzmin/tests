@@ -1,11 +1,12 @@
 !
-! Title: Test DNS filter 1
+! Title: Test DNS filter 2
 ! Homepage: https://github.com/Maxikuzmin/test/DNS_test.txt
-! Version: 2.2.8
+! Version: 2.2.9
 ! License: free
-! Last modified: 2023-06-11 11:11:11
-! Description: Test DNS filter 1488
+! Last modified: 2023-09-07 19:23:02
+! Description: Test DNS filter 1488pop
 
 ||example.org^
 0.0.0.0 mail.ru
-TEST1
+TEST111
+TEST222
