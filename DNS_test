@@ -1,10 +1,10 @@
 !
-! Title: Test DNS filter 228
+! Title: Test DNS filter 1
 ! Homepage: https://github.com/Maxikuzmin/test/DNS_test.txt
 ! License: free
-! Last modified: 2023-09-06 14:03:42
+! Last modified: 2023-06-11 11:11:11
 ! Description: Test DNS filter 228
 
 ||example.org^
 0.0.0.0 mail.ru
-TEST228
+TEST1
