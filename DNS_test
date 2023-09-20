@@ -1,10 +1,10 @@
 !
-! Title: Test filter new
+! Title: Test filter new1
 ! Homepage: https://github.com/Maxikuzmin/test/DNS_test.txt
-! Version: 2.2.18
+! Version: 2.2.19
 ! License: free
 ! Last modified: 2023-09-20 13:50:02
-! Description: Test filter 1488(1)
+! Description: Test filter 1488(2)
 
 ||example.org^
 ||avito.ru^
@@ -21,3 +21,4 @@ lenta.ru##body
 example.com#%#console.log('AG User Filter: hueta');
 TEST777
 TEST888
+TEST999
