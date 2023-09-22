@@ -17,7 +17,6 @@ TEST555
 TEST666
 lenta.ru##body
 @@||medusa.io^
-#%#console.log('AG User Filter: hueta');
 example.com#%#console.log('AG User Filter: hueta');
 TEST777
 TEST888
