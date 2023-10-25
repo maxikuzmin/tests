@@ -1,9 +1,9 @@
 !
-! Title: Test filter new4
+! Title: Test filter new5
 ! Homepage: https://github.com/Maxikuzmin/test/DNS_test.txt
-! Version: 2.2.28
+! Version: 2.2.29
 ! License: free
-! Last modified: 2023-10-17 17:47:02
+! Last modified: 2023-10-25 18:47:02
 ! Description: Test filter 1488(8)
 
 ||example.org^
@@ -26,3 +26,4 @@ TEST2222
 TEST3333
 TEST4444
 TEST5555
+TEST6666
