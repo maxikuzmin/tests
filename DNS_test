@@ -1,7 +1,7 @@
 !
-! Title: Test filter new8
+! Title: Test filter new9
 ! Homepage: https://github.com/Maxikuzmin/test/DNS_test.txt
-! Version: 2.2.32
+! Version: 2.2.33
 ! License: free
 ! Last modified: 2023-11-22 16:47:02
 ! Description: Test filter 1488(10)
@@ -30,5 +30,6 @@ TEST6666
 TEST7777
 TEST8888
 TEST9999
+TEST1
 ||food.com^
 0.0.0.0 forbes.com
