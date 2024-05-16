@@ -1,11 +1,11 @@
 !
-! Title: Test filter new11
+! Title: Test filter new12
 ! Homepage: https://github.com/Maxikuzmin/test/DNS_test.txt
-! Version: 2.2.11
+! Version: 2.2.12
 ! License: free
-! Last modified: 2023-11-22 16:47:02
+! Last modified: 2024-05-12 12:12:12
 ! TimeUpdated: 2024-04-04T07:33:19+00:00
-! Description: Test filter 1488(11)
+! Description: Test filter 1488(12)
 
 ||example.org^
 ||avito.ru^
