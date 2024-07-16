@@ -1,11 +1,11 @@
 !
-! Title: Test filter new13
+! Title: Test filter new14
 ! Homepage: https://github.com/Maxikuzmin/test/DNS_test.txt
-! Version: 2.2.13
+! Version: 2.2.14
 ! License: free
 ! Last modified: 2024-07-03 12:12:12
 ! TimeUpdated: 2024-04-04T07:33:19+00:00
-! Description: Test filter 1488(13)
+! Description: Test filter 1488(14)
 
 ||example.org^
 ||avito.ru^
@@ -35,4 +35,6 @@ TEST1
 TEST2
 ||food.com^
 0.0.0.0 forbes.com
+NU
+NU
 NU
