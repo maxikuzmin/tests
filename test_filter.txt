@@ -1,3 +1,4 @@
+
 ! Test custom Safari filter for update check
 ! (change 0001 -> 0002 -> 0003 before each update to verify refresh)
 
