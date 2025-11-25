@@ -1,49 +1,14 @@
-!
-! Title: Test filter new17
-! Homepage: https://github.com/Maxikuzmin/test/test_filter.txt
-! Version: 2.2.17
-! License: free
-! Last modified: 2025-11-25 00:17:12
-! TimeUpdated: 2025-11-25T07:33:19+00:00
-! Description: Test filter 1488(17)
+! Test custom Safari filter for update check
+! (change 0001 -> 0002 -> 0003 before each update to verify refresh)
 
-||example.org^
-||avito.ru^
-0.0.0.0 mail.ru
-TEST111
-TEST222
-TEST333
-TEST444
-TEST555
-TEST666
-lenta.ru##body
-@@||medusa.io^
-forbes.com#%#console.log('AG User Filter: hueta');
-TEST777
-TEST888
-TEST999
-TEST1111
-TEST2222
-TEST3333
-TEST4444
-TEST5555
-TEST6666
-TEST7777
-TEST8888
-TEST9999
-TEST1
-TEST2
-||food.com^
-0.0.0.0 forbes.com
-NU
-312313
-333333
-12312312
-3213123
-312312
-3213213
-FHEWJKHKWEJ
-REWHJKREHWK
-REWREWREW
-REWRWERWE
-RWEREWR
+!#safari_cb_affinity(all)
+#%#console.log('AG User Filter: 0001');
+example.org#%#alert('AG User Filter: 0001');
+
+!------------------------------------------------------------
+
+@@||m.servedby-buysellads.com/monetization.js
+
+!-----------------------------------------------------------
+!#safari_cb_affinity
+
