@@ -1,6 +1,6 @@
 !
 ! Title: Test filter new17
-! Homepage: https://github.com/Maxikuzmin/test/DNS_test.txt
+! Homepage: https://github.com/Maxikuzmin/test/test_filter.txt
 ! Version: 2.2.17
 ! License: free
 ! Last modified: 2025-11-25 00:17:12
