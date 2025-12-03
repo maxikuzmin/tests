@@ -4,7 +4,7 @@
 
 !#safari_cb_affinity(all)
 #%#console.log('AG User Filter: 0001');
-example.org#%#alert('AG User Filter: 1488');
+example.org#%#alert('AG User Filter: 0002');
 
 !------------------------------------------------------------
 
