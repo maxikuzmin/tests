@@ -1,5 +1,5 @@
 ! Title: Test filter
-! Version: 2.2.8
+! Version: 2.2.9
 ! Description: Test filter 1488(1)
 
 
