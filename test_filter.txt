@@ -1,4 +1,10 @@
 ! Title: Test filter
+! Homepage: https://github.com/Maxikuzmin/test/test_filter.txt
+! Version: 2.2.8
+! License: free
+! Last modified: 2025-12-04 00:17:12
+! TimeUpdated: 2025-12-04T07:33:19+00:00
+! Description: Test filter 1488(1)
 ! Test custom Safari filter for update check
 ! (change 0001 -> 0002 -> 0003 before each update to verify refresh)
 
